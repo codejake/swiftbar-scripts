@@ -10,7 +10,7 @@
 # <swiftbar.hideRunInTerminal>true</swiftbar.hideRunInTerminal>
 
 # Configure your Xymon instance base URL.
-export XYMON="https://example.com/xymon/"
+export XYMON="https://example.com/xymon"
 
 # Get the useful info.
 export RESULT=`curl -s "${XYMON}/nongreen.rss"`
