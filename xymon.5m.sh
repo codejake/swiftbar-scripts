@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# This script requires RSS be enabled in Xymon!
+
 # <xbar.title>Xymon Checker</xbar.title>
 # <xbar.version>v1.0</xbar.version>
 # <xbar.author>Jake Shaw</xbar.author>
