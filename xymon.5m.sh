@@ -41,9 +41,8 @@ echo "---"
 
 # Dump the problems, if any.
 echo ${RESULT} | while read_dom; do
-    if [[ $ENTITY = "title" ]]; then
+    if [[ $ENTITY = "title" ]] || [[ $ENTITY = "description" ]]; then
         echo $CONTENT
-        #exit
     fi
 done
 
