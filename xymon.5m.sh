@@ -1,13 +1,13 @@
 #!/bin/bash
 
-# This script requires RSS be enabled in Xymon!
-
 # <xbar.title>Xymon Checker</xbar.title>
 # <xbar.version>v1.0</xbar.version>
 # <xbar.author>Jake Shaw</xbar.author>
 # <xbar.author.github>codejake</xbar.author.github>
 # <xbar.desc>Display current Xymon status.</xbar.desc>
 # <swiftbar.hideRunInTerminal>true</swiftbar.hideRunInTerminal>
+
+# This script requires RSS be enabled in Xymon!
 
 # Configure your Xymon instance base URL.
 export XYMON="https://example.com/xymon"
