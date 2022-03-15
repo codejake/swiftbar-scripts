@@ -1,9 +1,9 @@
-# My Swiftbar scripts
+# My SwiftBar scripts 🌻
 
-These are some of my [Swiftbar](https://github.com/swiftbar/SwiftBar) scripts. 
+These are some of my [SwiftBar](https://github.com/swiftbar/SwiftBar) scripts. 
 They should probably work in [xBar](https://github.com/matryer/xbar) and 
 [Argos](https://github.com/p-e-w/argos) with little or no modification -- 
-that's the goal, anyway.
+that's the goal, anyway 🤞🏻.
 
 ## Scripts
 
